@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Robert
+- 👀 I’m interested to improve my programming skills
+- 🌱 I’m currently learning Java and associated technologies
+- 💞️ I am looking for commercial experience opportunity
