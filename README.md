@@ -1,2 +1,2 @@
 Hi 👋 I’m Robert.
-I’m currently improving 🌱 my Java programming skills and associated technologies.
+I’m currently improving 🌱 my programming skills.
